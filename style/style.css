@@ -1,0 +1,27 @@
+.color-row{
+    background-color:black;
+    color:white;
+    border-radius: 10px;
+}
+.item-menu{
+    background-color: black;
+    color:white;
+}
+.item-menu:hover{
+    background-color: #5D5E62;
+}
+.item-menu a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.item-menu a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+
+.item-menu a:hover{
+    text-decoration: underline;
+    color:white;
+}
